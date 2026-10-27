@@ -6,7 +6,8 @@ namespace EverybodyCodes
     {
         static void Main(string[] args)
         {
-            Q1P1.Solve();
+            // Q1P1.Solve();
+            Q1P2.Solve();
         }
     }
 }
