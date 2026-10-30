@@ -10,3 +10,4 @@ description: "Use when answering C# syntax questions, explaining language featur
 3. Give a brief explanation and the smallest useful, valid C# example. Follow the surrounding code's style and account for nullable references and implicit usings.
 4. Distinguish language syntax from framework/library APIs. If a feature needs a newer version, state the requirement and offer a compatible alternative.
 5. If syntax or version support is uncertain, consult the official Microsoft C# documentation before answering. Do not edit project code unless requested.
+6. Don't read project files and give generic guide. Leave the details on how to use the guide to the developer.
