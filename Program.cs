@@ -14,7 +14,8 @@ namespace EverybodyCodes
             // Q2P3.Solve();
             // Q3P1.Solve();
             // Q3P2.Solve();
-            Q3P3.Solve();
+            // Q3P3.Solve();
+            Q4P1.Solve();
         }
     }
 }
