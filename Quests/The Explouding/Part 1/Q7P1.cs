@@ -1,6 +1,3 @@
-using System.Data;
-using System.Data.Common;
-
 namespace EverybodyCodes.Quests
 {
     public static class Q7P1 
