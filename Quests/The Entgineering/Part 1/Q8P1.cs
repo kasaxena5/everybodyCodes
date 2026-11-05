@@ -7,7 +7,6 @@ namespace EverybodyCodes.Quests
             string input = File.ReadAllText(@"C:\Users\kasaxena\everybodyCodes\Quests\The Entgineering\Part 1\everybody_codes_e2026_q08_p1.txt");
             string[] lines = input.Split('\n');
             int n = lines.Length, m = lines[0].Trim().Length;
-            Console.WriteLine($"n: {n}, m: {m}");
             int[,] grid = new int[n, m];
             for(int i = 0; i < n; i++)
             {
