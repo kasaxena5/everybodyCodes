@@ -1,0 +1,10 @@
+id=1, growth=9, limit=10
+id=2, growth=29, limit=66
+id=3, growth=27, limit=65
+id=4, growth=11, limit=24
+id=5, growth=7, limit=16
+id=6, growth=9, limit=24
+id=7, growth=21, limit=44
+id=8, growth=19, limit=52
+id=9, growth=15, limit=34
+id=10, growth=17, limit=28
