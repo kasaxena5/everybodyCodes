@@ -73,7 +73,6 @@ namespace EverybodyCodes.Quests
                 }
 
                 ans += t;
-                Console.WriteLine($"Id: {id}, Growth: {growth}, Limit: {limit}, Leaves: {leaves}, T = {t}");
             }
 
             Console.WriteLine(ans);
