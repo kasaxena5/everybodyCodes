@@ -100,7 +100,6 @@ namespace EverybodyCodes.Quests
                 grid = nextGrid;
                 ghostMap = nextGhostMap;
                 totalCollisions += collisions;
-                Print(grid, ghostMap);
             }
 
             Console.WriteLine(totalCollisions);
