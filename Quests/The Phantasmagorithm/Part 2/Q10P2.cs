@@ -124,7 +124,6 @@ namespace EverybodyCodes.Quests
                 ghostMap = nextGhostMap;
                 totalCollisions += collisions;
                 round++;
-                // Print(grid, ghostMap);
             }
 
             Console.WriteLine(round);
