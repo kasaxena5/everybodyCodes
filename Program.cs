@@ -38,7 +38,8 @@ namespace EverybodyCodes
             // Q10P3.Solve();
             // Q11P1.Solve();
             // Q11P2.Solve();
-            Q11P3.Solve();
+            // Q11P3.Solve();
+            Q12P1.Solve();
         }
     }
 }
