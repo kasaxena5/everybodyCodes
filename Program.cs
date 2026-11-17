@@ -44,10 +44,11 @@ namespace EverybodyCodes
             // Q12P3.Solve();
             // Q13P1.Solve();
             // Q13P2.Solve();
-            Q13P3.Solve();
+            // Q13P3.Solve();
             // Q14P1.Solve();
             // Q14P2.Solve();
             // Q14P3.Solve();
+            Q16P1.Solve();
         }
     }
 }
