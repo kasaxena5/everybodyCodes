@@ -52,7 +52,10 @@ namespace EverybodyCodes
             // Q16P2.Solve();
             // Q17P1.Solve();
             // Q17P2.Solve();
-            Q17P3.Solve();
+            // Q17P3.Solve();
+            // Q18P1.Solve();
+            // Q18P2.Solve();
+            Q18P3.Solve();
         }
     }
 }
