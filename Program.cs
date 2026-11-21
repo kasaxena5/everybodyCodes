@@ -57,7 +57,9 @@ namespace EverybodyCodes
             // Q18P2.Solve();
             // Q18P3.Solve();
             // Q19P1.Solve();
-            Q19P2.Solve();
+            // Q19P2.Solve();
+            // Q20P1.Solve();
+            Q20P2.Solve();
         }
     }
 }
